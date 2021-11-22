@@ -1,4 +1,15 @@
 {
     "theme_list": [
+        {
+            "title": "SIMVLE Theme",
+            "description": "SIMVLE tema bawaan dari Frastyle yang memberikan nuansa Modern dan Bersih ✨.",
+            "author": "@bagasnur",
+            "author_url": "https://github.com/bagasnur",
+            "license": "MIT",
+            "source": "https://github.com/frastyle/simvle-theme",
+            "download_url": "https://github.com/frastyle/simvle-theme/releases/download/v0.1.0-beta.1/simvle-theme-by-frastyle-v0.1.0-beta.1.zip",
+            "preview_img": "https://raw.githubusercontent.com/frastyle/simvle-theme/main/src/pratinjau-simvle.png",
+            "demo": "/themes/simvle.html"
+        }
     ]
 }

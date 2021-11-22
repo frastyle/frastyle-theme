@@ -13,7 +13,7 @@ Memperkenalkan Dunia Tema Frastyle : Daftar dari berbagai macam variasi tema yan
 Berikut daftar pilihan variasi tema yang tersedia:
 
 -   [SIMVLE](https://github.com/frastyle/simvle-theme)
-    by [Frastyle Framework](https://github.com/frastyle)
+    by [Frastyle Dev.](https://github.com/orgs/frastyle/people)
 
 ---
 
@@ -23,7 +23,7 @@ _- Coming Soon_ 🔜
 
 ## 📄 Lisensi
 
-(c) 2021 [Tim Frastyle Framework](https://github.com/frastyle/people).
+(c) 2021 [Tim Frastyle Dev](https://github.com/frastyle/people).
 <br>
 Konten website dibawah lisensi [Atribusi-Berbagi Serupa 2.0 Generik (CC BY-SA 2.0)](https://creativecommons.org/licenses/by-sa/2.0).
 <br>
